@@ -1,0 +1,3 @@
+[submodule "custom_nodes/TinkerBot-tech-for-ComfyUI-Touchpad"]
+	path = custom_nodes/TinkerBot-tech-for-ComfyUI-Touchpad
+	url = https://github.com/subtleGradient/TinkerBot-tech-for-ComfyUI-Touchpad
